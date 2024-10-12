@@ -7,3 +7,5 @@ Globe Explorer :- https://explorer.globe.engineer/
 Authentication :- https://authjs.dev/
 <br />
 Background Gradient Snippets :- https://bg.ibelick.com/
+<br /> 
+Icons by tailwind creators :- https://heroicons.com/
