@@ -9,3 +9,5 @@ Authentication :- https://authjs.dev/
 Background Gradient Snippets :- https://bg.ibelick.com/
 <br /> 
 Icons by tailwind creators :- https://heroicons.com/
+<br />
+Github Branching :- https://learngitbranching.js.org/
